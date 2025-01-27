@@ -1,9 +1,22 @@
+
 #root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   max-width: 1280px;
+  min-height: 100vh;
   margin: 0 auto;
-  padding: 2rem;
+
   text-align: center;
 }
+
+
+body {
+  background-color: rgb(33, 32, 32);
+  margin: 0;
+  padding: 0;
+}
+
 
 .logo {
   height: 6em;
@@ -18,25 +31,73 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.image-container {
+  position: relative;
+  display: inline-block;
+  margin: 20px 0;
+  width: 200px;
+  height: 150px;
+  overflow: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+
+.logo-part {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  transition: transform 1s ease-in-out;
 }
 
-.card {
-  padding: 2em;
+.part-left {
+  left: 0;
+  transform: translateX(0);
 }
 
-.read-the-docs {
-  color: #888;
+.part-right {
+  right: 0;
+  transform: translateX(0);
+}
+
+.animate-left {
+  transform: translateX(-100%);
+}
+
+.animate-right {
+  transform: translateX(100%);
+}
+
+
+.magic-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.magic-button:hover {
+  background-color: #0056b3;
+}
+
+
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: auto;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
 }
