@@ -11,8 +11,8 @@ function App() {
   const handleButtonClick = () => {
     setIsClicked(true);
     setTimeout(() => {
-      setIsClicked(false); // Reset after the animation
-    }, 2000); // Animation duration
+      setIsClicked(false); 
+    }, 2000); 
   };
 
   return (

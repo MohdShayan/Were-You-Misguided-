@@ -36,10 +36,11 @@ body {
   position: relative;
   display: inline-block;
   margin: 20px 0;
-  width: 200px;
-  height: 150px;
+  width: 300px; /* Set the desired width */
+  aspect-ratio: 4 / 5; /* Maintain a 2:3 aspect ratio (width:height) */
   overflow: hidden;
 }
+
 
 
 .logo-part {
