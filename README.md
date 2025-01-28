@@ -1,6 +1,6 @@
 # Vite React Project: Khul Ja Sim Sim
 
-This project is a simple React app that demonstrates a magical "Khul Ja Sim Sim" door animation with a button click. The door parts animate as they move to reveal a hidden message. This app uses [Vite](https://vitejs.dev/) for fast development and hot module reloading.
+This project is a simple React app that demonstrates a magical "Khul Ja Sim Sim" door animation with a button click. The door parts animate as they move .... This app uses [Vite](https://vitejs.dev/) for fast development and hot module reloading.
 
 ## About Vite
 
