@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from './assets/tcblogoremakeblackbg.png';
+
 import part1 from './assets/1.png';
 import part2 from './assets/2.png';
 
