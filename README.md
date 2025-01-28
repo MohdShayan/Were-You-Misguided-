@@ -29,55 +29,48 @@ First, clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/your-username/khul-ja-sim-sim.git
-2. Install Dependencies
-Navigate to the project directory:
 ```
+#### 2. Install Dependencies
+ Navigate to the project directory:
+
 ```
-bash
-Copy
 cd khul-ja-sim-sim
 Then, install the dependencies using npm or yarn:
 ```
 ```
-bash
-Copy
 npm install
+```
 or if you're using yarn:
-```
-```
-bash
-Copy
-yarn install
-3. Start the Development Server
-Once the dependencies are installed, start the Vite development server:
-```
-```
-bash
-Copy
-npm run dev
-or with yarn:
-```
-```
-bash
-Copy
-yarn dev
-This will start the development server and open the app in your default browser. The app should now be live at http://localhost:3000.
-```
 
-4. Build the Project (Optional)
+```
+yarn install
+```
+#### 3. Start the Development Server
+ Once the dependencies are installed, start the Vite development server:
+
+```
+npm run dev
+```
+or with yarn:
+
+```
+yarn dev
+```
+This will start the development server and open the app in your default browser. The app should now be live at http://localhost:3000.
+
+
+#### 4. Build the Project (Optional)
 If you want to build the project for production, run the following command:
 ```
-bash
-Copy
 npm run build
+```
 or with yarn:
+
 ```
-```
-bash
-Copy
 yarn build
-This will bundle the app for production and output the build files to the dist folder.
 ```
+This will bundle the app for production and output the build files to the dist folder.
+
 
 ## The Story of "Khul Ja Sim Sim" Door
 In a distant land, nestled among towering mountains and lush forests, there stood a legendary door. This was no ordinary door — it was the magical Khul Ja Sim Sim door. It was said to have the power to open and reveal wondrous things, but only when the right words were spoken.
