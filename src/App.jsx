@@ -17,8 +17,13 @@ function App() {
 
   return (
     <>
+    <div>
+          <h1 className="logo-text" style={{color:"white"}}>Khul Ja Sim Sim</h1>
+        </div>
       <div className="image-container">
         {/* Split Parts */}
+
+        
         <img
           src={part1}
           className={`logo-part part-left ${isClicked ? 'animate-left' : ''}`}
