@@ -80,7 +80,7 @@ The door was part of an ancient temple that had been lost to time. Scholars and 
 One day, a curious traveler named Rohan stumbled upon the long-forgotten ruins while exploring the mountains. He had heard stories of the door and its mythical properties, and he couldn't resist the temptation to see it for himself. As he approached the door, he noticed the faint symbols etched along its frame. There was an inscription, half-erased by the ravages of time, but still readable:
 
 "Only the brave will witness the power, for the door only opens with the words of the ancients: Khul Ja Sim Sim."
-it revealed the secret tcb_{ lon3w01f } .....
+
 
 Rohan stood there for a moment, contemplating. What could these words mean? What kind of magic was tied to this door? He had heard legends, but he never expected to stand before it himself. He closed his eyes, took a deep breath, and recited the words from the inscription:
 
