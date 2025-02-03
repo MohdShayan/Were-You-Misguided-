@@ -2,6 +2,8 @@
 
 This project is a simple React app that demonstrates a magical "Khul Ja Sim Sim" door animation with a button click. The door parts animate as they move .... This app uses [Vite](https://vitejs.dev/) for fast development and hot module reloading.
 
+## Visit the Live Magical Door : (https://khulja-simsim.netlify.app/)
+
 ## Hint 🔍
 
 > **Curiosity often leads to hidden treasures.**  
