@@ -1,6 +1,5 @@
-# Vite React Project: Khul Ja Sim Sim
-
-This project is a simple React app that demonstrates a magical "Khul Ja Sim Sim" door animation with a button click. The door parts animate as they move .... This app uses [Vite](https://vitejs.dev/) for fast development and hot module reloading.
+## Challenge  
+The flag is concealed within a public code repository. Your task is to search through the files, commit history, or metadata to uncover it. Use your OSINT skills to explore the repository structure, analyze past changes, and identify where the flag might be lurking. This challenge tests your ability to investigate digital footprints and extract hidden information from code repositories without leaving a trace.
 
 ## Visit the Live Magical Door : (https://khulja-simsim.netlify.app/)
 
