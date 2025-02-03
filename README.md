@@ -2,6 +2,13 @@
 
 This project is a simple React app that demonstrates a magical "Khul Ja Sim Sim" door animation with a button click. The door parts animate as they move .... This app uses [Vite](https://vitejs.dev/) for fast development and hot module reloading.
 
+## Hint 🔍
+
+> **Curiosity often leads to hidden treasures.**  
+> This README contains more than what meets the eye. Perhaps the secret is lurking in the shadows, waiting to be uncovered.  
+> Explore carefully—sometimes, what you seek is concealed in plain sight. 👀
+
+
 ## About Vite
 
 [Vite](https://vitejs.dev/) is a modern build tool and development environment for web projects. It provides an incredibly fast and efficient development experience. Vite focuses on optimizing the development process by leveraging modern JavaScript features, such as ES Modules (ESM), to deliver faster hot module reloading (HMR) and instant server start. Vite comes with built-in support for React, TypeScript, and other popular frameworks, which allows you to easily set up your project with minimal configuration.
