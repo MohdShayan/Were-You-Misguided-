@@ -25,8 +25,7 @@ function App() {
       <div className="image-container">
         {/* Club Logo behind the splitting images */}
         <img src={clubLogo} className="club-logo" alt="Club Logo" width={250} />
-
-        {/* Splitting Images */}
+        
         <img
           src={part1}
           className={`logo-part part-left ${isClicked ? 'animate-left' : ''}`}
