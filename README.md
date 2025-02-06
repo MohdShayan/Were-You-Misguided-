@@ -35,7 +35,6 @@ One day, a curious traveler named Rohan stumbled upon the long-forgotten ruins w
 Rohan stood there for a moment, contemplating. What could these words mean? What kind of magic was tied to this door? He had heard legends, but he never expected to stand before it himself. He closed his eyes, took a deep breath, and recited the words from the inscription:
 
 "Khul Ja Sim Sim!"
-it revealed the secret tcb_{ lon3w01f } .....
 
 To his surprise, the ground beneath him trembled slightly, and the door began to hum with energy. The ancient wood creaked, and a bright light emanated from its center. Slowly, the door parted down the middle, revealing a breathtaking sight: a hidden chamber filled with sparkling treasures, ancient scrolls, and artifacts beyond imagination.
 
